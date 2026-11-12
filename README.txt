@@ -13,7 +13,3 @@
 - `css/style.css` - Shared external stylesheet
 - `assets/jzel-profile.jpg` - Homepage profile photo
 
-## Before submitting
-- Add your real email address in `contact.html`.
-- The contact form is a front-end demonstration only. To receive messages, connect it to a form service or a server-side backend.
-- Replace the sample project descriptions with screenshots and links to your actual completed work when available.
